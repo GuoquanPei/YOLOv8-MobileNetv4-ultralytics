@@ -13,4 +13,5 @@ Making your .yaml file
 .yaml file for data loading
 <br>
 ![image](https://github.com/user-attachments/assets/4ed428ba-e9c0-43da-9fb2-9f0f3f836f4a)
+<br>
 The training can be started by running the train.py file.
