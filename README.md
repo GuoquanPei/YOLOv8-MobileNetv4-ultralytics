@@ -3,5 +3,10 @@ You just need to load YOLOV8-mobilenet.yaml to use the modified model.
 这是基于YOLOv8的改进策略，采用MobileNetv4对模型进行改进。可以减少模型的参数，提高模型精度。
 你只需要加载YOLOV8-mobilenet.yaml，就可使用修改好的模型。
 <br><br>
+你的数据和标签存放结构
+Your data and label storage structure
 ![image](https://github.com/user-attachments/assets/dac8cc44-1c6a-4ea4-a200-e75479e9aea7)
+<br><br>
+数据加载的.yaml文件
+.yaml file for data loading
 ![image](https://github.com/user-attachments/assets/4ed428ba-e9c0-43da-9fb2-9f0f3f836f4a)
