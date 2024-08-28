@@ -7,7 +7,7 @@ Your data and label storage structure
 ![image](https://github.com/user-attachments/assets/744d5176-421c-4b36-a453-20f652c750f6)
 <br>
 Making your .yaml file
-<be>
+<br>
 ![image](https://github.com/user-attachments/assets/d1b4a233-5c10-47ec-a798-d8deab227878)
 <br>
 .yaml file for data loading
