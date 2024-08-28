@@ -10,21 +10,15 @@
 
 ## 数据和标签存储结构
 
-<div align="center">
-    ![数据和标签存储结构](https://github.com/user-attachments/assets/744d5176-421c-4b36-a453-20f652c750f6)
-</div>
+![数据和标签存储结构](https://github.com/user-attachments/assets/744d5176-421c-4b36-a453-20f652c750f6)
 
 ## 制作你的 .yaml 文件
 
-<div align="center">
-    ![制作 .yaml 文件](https://github.com/user-attachments/assets/d1b4a233-5c10-47ec-a798-d8deab227878)
-</div>
+![制作 .yaml 文件](https://github.com/user-attachments/assets/d1b4a233-5c10-47ec-a798-d8deab227878)
 
 ## 用于数据加载的 .yaml 文件
 
-<div align="center">
-    ![数据加载的 .yaml 文件](https://github.com/user-attachments/assets/4ed428ba-e9c0-43da-9fb2-9f0f3f836f4a)
-</div>
+![数据加载的 .yaml 文件](https://github.com/user-attachments/assets/4ed428ba-e9c0-43da-9fb2-9f0f3f836f4a)
 
 ## 训练
 
